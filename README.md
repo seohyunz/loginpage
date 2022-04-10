@@ -8,12 +8,12 @@
   * Boilerplate Code with login function and member registration function.
 
 ### ⁘Login Page
-![로그인이되있다면](https://user-images.githubusercontent.com/99002828/162626905-02581e64-aef2-4032-87ba-f93c95353a23.png)
+![image](https://user-images.githubusercontent.com/99002828/162626952-abcec402-ade9-443c-b41d-b2d5aa0d0b2b.png)
 
 If you are already registered, you can log in by entering your email and password.
 
 ### ⁘Register Page
-![회원가입페이지](https://user-images.githubusercontent.com/99002828/162626907-81bac33d-d8b5-4617-8639-4e1754a824a7.png)
+![image](https://user-images.githubusercontent.com/99002828/162626981-82cbf7eb-968c-474f-8711-bd0935e68876.png)
 
 ### ⁘Start page
 ![image](https://user-images.githubusercontent.com/99002828/162626897-59727596-4ca5-4b5c-bbc0-52172edf8e2b.png)
