@@ -15,6 +15,8 @@ If you are already registered, you can log in by entering your email and passwor
 ### ⁘Register Page
 ![image](https://user-images.githubusercontent.com/99002828/162626981-82cbf7eb-968c-474f-8711-bd0935e68876.png)
 
+You can sign up for membership by checking your email, name, password, and password.
+If the password and password confirmation are not the same, an alert window appears.
 ### ⁘Start page
 ![image](https://user-images.githubusercontent.com/99002828/162626897-59727596-4ca5-4b5c-bbc0-52172edf8e2b.png)
 
